@@ -1,0 +1,1026 @@
+Name,Types,Image URL
+Bulbasaur,"Grass, Poison",https://img.pokemondb.net/sprites/home/normal/2x/bulbasaur.jpg
+Ivysaur,"Grass, Poison",https://img.pokemondb.net/sprites/home/normal/2x/ivysaur.jpg
+Venusaur,"Grass, Poison",https://img.pokemondb.net/sprites/home/normal/2x/venusaur.jpg
+Charmander,Fire,https://img.pokemondb.net/sprites/home/normal/2x/charmander.jpg
+Charmeleon,Fire,https://img.pokemondb.net/sprites/home/normal/2x/charmeleon.jpg
+Charizard,"Fire, Flying",https://img.pokemondb.net/sprites/home/normal/2x/charizard.jpg
+Squirtle,Water,https://img.pokemondb.net/sprites/home/normal/2x/squirtle.jpg
+Wartortle,Water,https://img.pokemondb.net/sprites/home/normal/2x/wartortle.jpg
+Blastoise,Water,https://img.pokemondb.net/sprites/home/normal/2x/blastoise.jpg
+Caterpie,Bug,https://img.pokemondb.net/sprites/home/normal/2x/caterpie.jpg
+Metapod,Bug,https://img.pokemondb.net/sprites/home/normal/2x/metapod.jpg
+Butterfree,"Bug, Flying",https://img.pokemondb.net/sprites/home/normal/2x/butterfree.jpg
+Weedle,"Bug, Poison",https://img.pokemondb.net/sprites/home/normal/2x/weedle.jpg
+Kakuna,"Bug, Poison",https://img.pokemondb.net/sprites/home/normal/2x/kakuna.jpg
+Beedrill,"Bug, Poison",https://img.pokemondb.net/sprites/home/normal/2x/beedrill.jpg
+Pidgey,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/pidgey.jpg
+Pidgeotto,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/pidgeotto.jpg
+Pidgeot,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/pidgeot.jpg
+Rattata,Normal,https://img.pokemondb.net/sprites/home/normal/2x/rattata.jpg
+Raticate,Normal,https://img.pokemondb.net/sprites/home/normal/2x/raticate.jpg
+Spearow,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/spearow.jpg
+Fearow,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/fearow.jpg
+Ekans,Poison,https://img.pokemondb.net/sprites/home/normal/2x/ekans.jpg
+Arbok,Poison,https://img.pokemondb.net/sprites/home/normal/2x/arbok.jpg
+Pikachu,Electric,https://img.pokemondb.net/sprites/home/normal/2x/pikachu.jpg
+Raichu,Electric,https://img.pokemondb.net/sprites/home/normal/2x/raichu.jpg
+Sandshrew,Ground,https://img.pokemondb.net/sprites/home/normal/2x/sandshrew.jpg
+Sandslash,Ground,https://img.pokemondb.net/sprites/home/normal/2x/sandslash.jpg
+Nidoran♀,Poison,https://img.pokemondb.net/sprites/home/normal/2x/nidoran-f.jpg
+Nidorina,Poison,https://img.pokemondb.net/sprites/home/normal/2x/nidorina.jpg
+Nidoqueen,"Poison, Ground",https://img.pokemondb.net/sprites/home/normal/2x/nidoqueen.jpg
+Nidoran♂,Poison,https://img.pokemondb.net/sprites/home/normal/2x/nidoran-m.jpg
+Nidorino,Poison,https://img.pokemondb.net/sprites/home/normal/2x/nidorino.jpg
+Nidoking,"Poison, Ground",https://img.pokemondb.net/sprites/home/normal/2x/nidoking.jpg
+Clefairy,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/clefairy.jpg
+Clefable,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/clefable.jpg
+Vulpix,Fire,https://img.pokemondb.net/sprites/home/normal/2x/vulpix.jpg
+Ninetales,Fire,https://img.pokemondb.net/sprites/home/normal/2x/ninetales.jpg
+Jigglypuff,"Normal, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/jigglypuff.jpg
+Wigglytuff,"Normal, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/wigglytuff.jpg
+Zubat,"Poison, Flying",https://img.pokemondb.net/sprites/home/normal/2x/zubat.jpg
+Golbat,"Poison, Flying",https://img.pokemondb.net/sprites/home/normal/2x/golbat.jpg
+Oddish,"Grass, Poison",https://img.pokemondb.net/sprites/home/normal/2x/oddish.jpg
+Gloom,"Grass, Poison",https://img.pokemondb.net/sprites/home/normal/2x/gloom.jpg
+Vileplume,"Grass, Poison",https://img.pokemondb.net/sprites/home/normal/2x/vileplume.jpg
+Paras,"Bug, Grass",https://img.pokemondb.net/sprites/home/normal/2x/paras.jpg
+Parasect,"Bug, Grass",https://img.pokemondb.net/sprites/home/normal/2x/parasect.jpg
+Venonat,"Bug, Poison",https://img.pokemondb.net/sprites/home/normal/2x/venonat.jpg
+Venomoth,"Bug, Poison",https://img.pokemondb.net/sprites/home/normal/2x/venomoth.jpg
+Diglett,Ground,https://img.pokemondb.net/sprites/home/normal/2x/diglett.jpg
+Dugtrio,Ground,https://img.pokemondb.net/sprites/home/normal/2x/dugtrio.jpg
+Meowth,Normal,https://img.pokemondb.net/sprites/home/normal/2x/meowth.jpg
+Persian,Normal,https://img.pokemondb.net/sprites/home/normal/2x/persian.jpg
+Psyduck,Water,https://img.pokemondb.net/sprites/home/normal/2x/psyduck.jpg
+Golduck,Water,https://img.pokemondb.net/sprites/home/normal/2x/golduck.jpg
+Mankey,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/mankey.jpg
+Primeape,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/primeape.jpg
+Growlithe,Fire,https://img.pokemondb.net/sprites/home/normal/2x/growlithe.jpg
+Arcanine,Fire,https://img.pokemondb.net/sprites/home/normal/2x/arcanine.jpg
+Poliwag,Water,https://img.pokemondb.net/sprites/home/normal/2x/poliwag.jpg
+Poliwhirl,Water,https://img.pokemondb.net/sprites/home/normal/2x/poliwhirl.jpg
+Poliwrath,"Water, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/poliwrath.jpg
+Abra,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/abra.jpg
+Kadabra,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/kadabra.jpg
+Alakazam,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/alakazam.jpg
+Machop,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/machop.jpg
+Machoke,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/machoke.jpg
+Machamp,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/machamp.jpg
+Bellsprout,"Grass, Poison",https://img.pokemondb.net/sprites/home/normal/2x/bellsprout.jpg
+Weepinbell,"Grass, Poison",https://img.pokemondb.net/sprites/home/normal/2x/weepinbell.jpg
+Victreebel,"Grass, Poison",https://img.pokemondb.net/sprites/home/normal/2x/victreebel.jpg
+Tentacool,"Water, Poison",https://img.pokemondb.net/sprites/home/normal/2x/tentacool.jpg
+Tentacruel,"Water, Poison",https://img.pokemondb.net/sprites/home/normal/2x/tentacruel.jpg
+Geodude,"Rock, Ground",https://img.pokemondb.net/sprites/home/normal/2x/geodude.jpg
+Graveler,"Rock, Ground",https://img.pokemondb.net/sprites/home/normal/2x/graveler.jpg
+Golem,"Rock, Ground",https://img.pokemondb.net/sprites/home/normal/2x/golem.jpg
+Ponyta,Fire,https://img.pokemondb.net/sprites/home/normal/2x/ponyta.jpg
+Rapidash,Fire,https://img.pokemondb.net/sprites/home/normal/2x/rapidash.jpg
+Slowpoke,"Water, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/slowpoke.jpg
+Slowbro,"Water, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/slowbro.jpg
+Magnemite,"Electric, Steel",https://img.pokemondb.net/sprites/home/normal/2x/magnemite.jpg
+Magneton,"Electric, Steel",https://img.pokemondb.net/sprites/home/normal/2x/magneton.jpg
+Farfetch'd,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/farfetchd.jpg
+Doduo,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/doduo.jpg
+Dodrio,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/dodrio.jpg
+Seel,Water,https://img.pokemondb.net/sprites/home/normal/2x/seel.jpg
+Dewgong,"Water, Ice",https://img.pokemondb.net/sprites/home/normal/2x/dewgong.jpg
+Grimer,Poison,https://img.pokemondb.net/sprites/home/normal/2x/grimer.jpg
+Muk,Poison,https://img.pokemondb.net/sprites/home/normal/2x/muk.jpg
+Shellder,Water,https://img.pokemondb.net/sprites/home/normal/2x/shellder.jpg
+Cloyster,"Water, Ice",https://img.pokemondb.net/sprites/home/normal/2x/cloyster.jpg
+Gastly,"Ghost, Poison",https://img.pokemondb.net/sprites/home/normal/2x/gastly.jpg
+Haunter,"Ghost, Poison",https://img.pokemondb.net/sprites/home/normal/2x/haunter.jpg
+Gengar,"Ghost, Poison",https://img.pokemondb.net/sprites/home/normal/2x/gengar.jpg
+Onix,"Rock, Ground",https://img.pokemondb.net/sprites/home/normal/2x/onix.jpg
+Drowzee,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/drowzee.jpg
+Hypno,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/hypno.jpg
+Krabby,Water,https://img.pokemondb.net/sprites/home/normal/2x/krabby.jpg
+Kingler,Water,https://img.pokemondb.net/sprites/home/normal/2x/kingler.jpg
+Voltorb,Electric,https://img.pokemondb.net/sprites/home/normal/2x/voltorb.jpg
+Electrode,Electric,https://img.pokemondb.net/sprites/home/normal/2x/electrode.jpg
+Exeggcute,"Grass, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/exeggcute.jpg
+Exeggutor,"Grass, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/exeggutor.jpg
+Cubone,Ground,https://img.pokemondb.net/sprites/home/normal/2x/cubone.jpg
+Marowak,Ground,https://img.pokemondb.net/sprites/home/normal/2x/marowak.jpg
+Hitmonlee,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/hitmonlee.jpg
+Hitmonchan,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/hitmonchan.jpg
+Lickitung,Normal,https://img.pokemondb.net/sprites/home/normal/2x/lickitung.jpg
+Koffing,Poison,https://img.pokemondb.net/sprites/home/normal/2x/koffing.jpg
+Weezing,Poison,https://img.pokemondb.net/sprites/home/normal/2x/weezing.jpg
+Rhyhorn,"Ground, Rock",https://img.pokemondb.net/sprites/home/normal/2x/rhyhorn.jpg
+Rhydon,"Ground, Rock",https://img.pokemondb.net/sprites/home/normal/2x/rhydon.jpg
+Chansey,Normal,https://img.pokemondb.net/sprites/home/normal/2x/chansey.jpg
+Tangela,Grass,https://img.pokemondb.net/sprites/home/normal/2x/tangela.jpg
+Kangaskhan,Normal,https://img.pokemondb.net/sprites/home/normal/2x/kangaskhan.jpg
+Horsea,Water,https://img.pokemondb.net/sprites/home/normal/2x/horsea.jpg
+Seadra,Water,https://img.pokemondb.net/sprites/home/normal/2x/seadra.jpg
+Goldeen,Water,https://img.pokemondb.net/sprites/home/normal/2x/goldeen.jpg
+Seaking,Water,https://img.pokemondb.net/sprites/home/normal/2x/seaking.jpg
+Staryu,Water,https://img.pokemondb.net/sprites/home/normal/2x/staryu.jpg
+Starmie,"Water, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/starmie.jpg
+Mr. Mime,"Psychic, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/mr-mime.jpg
+Scyther,"Bug, Flying",https://img.pokemondb.net/sprites/home/normal/2x/scyther.jpg
+Jynx,"Ice, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/jynx.jpg
+Electabuzz,Electric,https://img.pokemondb.net/sprites/home/normal/2x/electabuzz.jpg
+Magmar,Fire,https://img.pokemondb.net/sprites/home/normal/2x/magmar.jpg
+Pinsir,Bug,https://img.pokemondb.net/sprites/home/normal/2x/pinsir.jpg
+Tauros,Normal,https://img.pokemondb.net/sprites/home/normal/2x/tauros.jpg
+Magikarp,Water,https://img.pokemondb.net/sprites/home/normal/2x/magikarp.jpg
+Gyarados,"Water, Flying",https://img.pokemondb.net/sprites/home/normal/2x/gyarados.jpg
+Lapras,"Water, Ice",https://img.pokemondb.net/sprites/home/normal/2x/lapras.jpg
+Ditto,Normal,https://img.pokemondb.net/sprites/home/normal/2x/ditto.jpg
+Eevee,Normal,https://img.pokemondb.net/sprites/home/normal/2x/eevee.jpg
+Vaporeon,Water,https://img.pokemondb.net/sprites/home/normal/2x/vaporeon.jpg
+Jolteon,Electric,https://img.pokemondb.net/sprites/home/normal/2x/jolteon.jpg
+Flareon,Fire,https://img.pokemondb.net/sprites/home/normal/2x/flareon.jpg
+Porygon,Normal,https://img.pokemondb.net/sprites/home/normal/2x/porygon.jpg
+Omanyte,"Rock, Water",https://img.pokemondb.net/sprites/home/normal/2x/omanyte.jpg
+Omastar,"Rock, Water",https://img.pokemondb.net/sprites/home/normal/2x/omastar.jpg
+Kabuto,"Rock, Water",https://img.pokemondb.net/sprites/home/normal/2x/kabuto.jpg
+Kabutops,"Rock, Water",https://img.pokemondb.net/sprites/home/normal/2x/kabutops.jpg
+Aerodactyl,"Rock, Flying",https://img.pokemondb.net/sprites/home/normal/2x/aerodactyl.jpg
+Snorlax,Normal,https://img.pokemondb.net/sprites/home/normal/2x/snorlax.jpg
+Articuno,"Ice, Flying",https://img.pokemondb.net/sprites/home/normal/2x/articuno.jpg
+Zapdos,"Electric, Flying",https://img.pokemondb.net/sprites/home/normal/2x/zapdos.jpg
+Moltres,"Fire, Flying",https://img.pokemondb.net/sprites/home/normal/2x/moltres.jpg
+Dratini,Dragon,https://img.pokemondb.net/sprites/home/normal/2x/dratini.jpg
+Dragonair,Dragon,https://img.pokemondb.net/sprites/home/normal/2x/dragonair.jpg
+Dragonite,"Dragon, Flying",https://img.pokemondb.net/sprites/home/normal/2x/dragonite.jpg
+Mewtwo,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/mewtwo.jpg
+Mew,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/mew.jpg
+Chikorita,Grass,https://img.pokemondb.net/sprites/home/normal/2x/chikorita.jpg
+Bayleef,Grass,https://img.pokemondb.net/sprites/home/normal/2x/bayleef.jpg
+Meganium,Grass,https://img.pokemondb.net/sprites/home/normal/2x/meganium.jpg
+Cyndaquil,Fire,https://img.pokemondb.net/sprites/home/normal/2x/cyndaquil.jpg
+Quilava,Fire,https://img.pokemondb.net/sprites/home/normal/2x/quilava.jpg
+Typhlosion,Fire,https://img.pokemondb.net/sprites/home/normal/2x/typhlosion.jpg
+Totodile,Water,https://img.pokemondb.net/sprites/home/normal/2x/totodile.jpg
+Croconaw,Water,https://img.pokemondb.net/sprites/home/normal/2x/croconaw.jpg
+Feraligatr,Water,https://img.pokemondb.net/sprites/home/normal/2x/feraligatr.jpg
+Sentret,Normal,https://img.pokemondb.net/sprites/home/normal/2x/sentret.jpg
+Furret,Normal,https://img.pokemondb.net/sprites/home/normal/2x/furret.jpg
+Hoothoot,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/hoothoot.jpg
+Noctowl,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/noctowl.jpg
+Ledyba,"Bug, Flying",https://img.pokemondb.net/sprites/home/normal/2x/ledyba.jpg
+Ledian,"Bug, Flying",https://img.pokemondb.net/sprites/home/normal/2x/ledian.jpg
+Spinarak,"Bug, Poison",https://img.pokemondb.net/sprites/home/normal/2x/spinarak.jpg
+Ariados,"Bug, Poison",https://img.pokemondb.net/sprites/home/normal/2x/ariados.jpg
+Crobat,"Poison, Flying",https://img.pokemondb.net/sprites/home/normal/2x/crobat.jpg
+Chinchou,"Water, Electric",https://img.pokemondb.net/sprites/home/normal/2x/chinchou.jpg
+Lanturn,"Water, Electric",https://img.pokemondb.net/sprites/home/normal/2x/lanturn.jpg
+Pichu,Electric,https://img.pokemondb.net/sprites/home/normal/2x/pichu.jpg
+Cleffa,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/cleffa.jpg
+Igglybuff,"Normal, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/igglybuff.jpg
+Togepi,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/togepi.jpg
+Togetic,"Fairy, Flying",https://img.pokemondb.net/sprites/home/normal/2x/togetic.jpg
+Natu,"Psychic, Flying",https://img.pokemondb.net/sprites/home/normal/2x/natu.jpg
+Xatu,"Psychic, Flying",https://img.pokemondb.net/sprites/home/normal/2x/xatu.jpg
+Mareep,Electric,https://img.pokemondb.net/sprites/home/normal/2x/mareep.jpg
+Flaaffy,Electric,https://img.pokemondb.net/sprites/home/normal/2x/flaaffy.jpg
+Ampharos,Electric,https://img.pokemondb.net/sprites/home/normal/2x/ampharos.jpg
+Bellossom,Grass,https://img.pokemondb.net/sprites/home/normal/2x/bellossom.jpg
+Marill,"Water, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/marill.jpg
+Azumarill,"Water, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/azumarill.jpg
+Sudowoodo,Rock,https://img.pokemondb.net/sprites/home/normal/2x/sudowoodo.jpg
+Politoed,Water,https://img.pokemondb.net/sprites/home/normal/2x/politoed.jpg
+Hoppip,"Grass, Flying",https://img.pokemondb.net/sprites/home/normal/2x/hoppip.jpg
+Skiploom,"Grass, Flying",https://img.pokemondb.net/sprites/home/normal/2x/skiploom.jpg
+Jumpluff,"Grass, Flying",https://img.pokemondb.net/sprites/home/normal/2x/jumpluff.jpg
+Aipom,Normal,https://img.pokemondb.net/sprites/home/normal/2x/aipom.jpg
+Sunkern,Grass,https://img.pokemondb.net/sprites/home/normal/2x/sunkern.jpg
+Sunflora,Grass,https://img.pokemondb.net/sprites/home/normal/2x/sunflora.jpg
+Yanma,"Bug, Flying",https://img.pokemondb.net/sprites/home/normal/2x/yanma.jpg
+Wooper,"Water, Ground",https://img.pokemondb.net/sprites/home/normal/2x/wooper.jpg
+Quagsire,"Water, Ground",https://img.pokemondb.net/sprites/home/normal/2x/quagsire.jpg
+Espeon,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/espeon.jpg
+Umbreon,Dark,https://img.pokemondb.net/sprites/home/normal/2x/umbreon.jpg
+Murkrow,"Dark, Flying",https://img.pokemondb.net/sprites/home/normal/2x/murkrow.jpg
+Slowking,"Water, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/slowking.jpg
+Misdreavus,Ghost,https://img.pokemondb.net/sprites/home/normal/2x/misdreavus.jpg
+Unown,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/unown.jpg
+Wobbuffet,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/wobbuffet.jpg
+Girafarig,"Normal, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/girafarig.jpg
+Pineco,Bug,https://img.pokemondb.net/sprites/home/normal/2x/pineco.jpg
+Forretress,"Bug, Steel",https://img.pokemondb.net/sprites/home/normal/2x/forretress.jpg
+Dunsparce,Normal,https://img.pokemondb.net/sprites/home/normal/2x/dunsparce.jpg
+Gligar,"Ground, Flying",https://img.pokemondb.net/sprites/home/normal/2x/gligar.jpg
+Steelix,"Steel, Ground",https://img.pokemondb.net/sprites/home/normal/2x/steelix.jpg
+Snubbull,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/snubbull.jpg
+Granbull,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/granbull.jpg
+Qwilfish,"Water, Poison",https://img.pokemondb.net/sprites/home/normal/2x/qwilfish.jpg
+Scizor,"Bug, Steel",https://img.pokemondb.net/sprites/home/normal/2x/scizor.jpg
+Shuckle,"Bug, Rock",https://img.pokemondb.net/sprites/home/normal/2x/shuckle.jpg
+Heracross,"Bug, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/heracross.jpg
+Sneasel,"Dark, Ice",https://img.pokemondb.net/sprites/home/normal/2x/sneasel.jpg
+Teddiursa,Normal,https://img.pokemondb.net/sprites/home/normal/2x/teddiursa.jpg
+Ursaring,Normal,https://img.pokemondb.net/sprites/home/normal/2x/ursaring.jpg
+Slugma,Fire,https://img.pokemondb.net/sprites/home/normal/2x/slugma.jpg
+Magcargo,"Fire, Rock",https://img.pokemondb.net/sprites/home/normal/2x/magcargo.jpg
+Swinub,"Ice, Ground",https://img.pokemondb.net/sprites/home/normal/2x/swinub.jpg
+Piloswine,"Ice, Ground",https://img.pokemondb.net/sprites/home/normal/2x/piloswine.jpg
+Corsola,"Water, Rock",https://img.pokemondb.net/sprites/home/normal/2x/corsola.jpg
+Remoraid,Water,https://img.pokemondb.net/sprites/home/normal/2x/remoraid.jpg
+Octillery,Water,https://img.pokemondb.net/sprites/home/normal/2x/octillery.jpg
+Delibird,"Ice, Flying",https://img.pokemondb.net/sprites/home/normal/2x/delibird.jpg
+Mantine,"Water, Flying",https://img.pokemondb.net/sprites/home/normal/2x/mantine.jpg
+Skarmory,"Steel, Flying",https://img.pokemondb.net/sprites/home/normal/2x/skarmory.jpg
+Houndour,"Dark, Fire",https://img.pokemondb.net/sprites/home/normal/2x/houndour.jpg
+Houndoom,"Dark, Fire",https://img.pokemondb.net/sprites/home/normal/2x/houndoom.jpg
+Kingdra,"Water, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/kingdra.jpg
+Phanpy,Ground,https://img.pokemondb.net/sprites/home/normal/2x/phanpy.jpg
+Donphan,Ground,https://img.pokemondb.net/sprites/home/normal/2x/donphan.jpg
+Porygon2,Normal,https://img.pokemondb.net/sprites/home/normal/2x/porygon2.jpg
+Stantler,Normal,https://img.pokemondb.net/sprites/home/normal/2x/stantler.jpg
+Smeargle,Normal,https://img.pokemondb.net/sprites/home/normal/2x/smeargle.jpg
+Tyrogue,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/tyrogue.jpg
+Hitmontop,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/hitmontop.jpg
+Smoochum,"Ice, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/smoochum.jpg
+Elekid,Electric,https://img.pokemondb.net/sprites/home/normal/2x/elekid.jpg
+Magby,Fire,https://img.pokemondb.net/sprites/home/normal/2x/magby.jpg
+Miltank,Normal,https://img.pokemondb.net/sprites/home/normal/2x/miltank.jpg
+Blissey,Normal,https://img.pokemondb.net/sprites/home/normal/2x/blissey.jpg
+Raikou,Electric,https://img.pokemondb.net/sprites/home/normal/2x/raikou.jpg
+Entei,Fire,https://img.pokemondb.net/sprites/home/normal/2x/entei.jpg
+Suicune,Water,https://img.pokemondb.net/sprites/home/normal/2x/suicune.jpg
+Larvitar,"Rock, Ground",https://img.pokemondb.net/sprites/home/normal/2x/larvitar.jpg
+Pupitar,"Rock, Ground",https://img.pokemondb.net/sprites/home/normal/2x/pupitar.jpg
+Tyranitar,"Rock, Dark",https://img.pokemondb.net/sprites/home/normal/2x/tyranitar.jpg
+Lugia,"Psychic, Flying",https://img.pokemondb.net/sprites/home/normal/2x/lugia.jpg
+Ho-oh,"Fire, Flying",https://img.pokemondb.net/sprites/home/normal/2x/ho-oh.jpg
+Celebi,"Psychic, Grass",https://img.pokemondb.net/sprites/home/normal/2x/celebi.jpg
+Treecko,Grass,https://img.pokemondb.net/sprites/home/normal/2x/treecko.jpg
+Grovyle,Grass,https://img.pokemondb.net/sprites/home/normal/2x/grovyle.jpg
+Sceptile,Grass,https://img.pokemondb.net/sprites/home/normal/2x/sceptile.jpg
+Torchic,Fire,https://img.pokemondb.net/sprites/home/normal/2x/torchic.jpg
+Combusken,"Fire, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/combusken.jpg
+Blaziken,"Fire, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/blaziken.jpg
+Mudkip,Water,https://img.pokemondb.net/sprites/home/normal/2x/mudkip.jpg
+Marshtomp,"Water, Ground",https://img.pokemondb.net/sprites/home/normal/2x/marshtomp.jpg
+Swampert,"Water, Ground",https://img.pokemondb.net/sprites/home/normal/2x/swampert.jpg
+Poochyena,Dark,https://img.pokemondb.net/sprites/home/normal/2x/poochyena.jpg
+Mightyena,Dark,https://img.pokemondb.net/sprites/home/normal/2x/mightyena.jpg
+Zigzagoon,Normal,https://img.pokemondb.net/sprites/home/normal/2x/zigzagoon.jpg
+Linoone,Normal,https://img.pokemondb.net/sprites/home/normal/2x/linoone.jpg
+Wurmple,Bug,https://img.pokemondb.net/sprites/home/normal/2x/wurmple.jpg
+Silcoon,Bug,https://img.pokemondb.net/sprites/home/normal/2x/silcoon.jpg
+Beautifly,"Bug, Flying",https://img.pokemondb.net/sprites/home/normal/2x/beautifly.jpg
+Cascoon,Bug,https://img.pokemondb.net/sprites/home/normal/2x/cascoon.jpg
+Dustox,"Bug, Poison",https://img.pokemondb.net/sprites/home/normal/2x/dustox.jpg
+Lotad,"Water, Grass",https://img.pokemondb.net/sprites/home/normal/2x/lotad.jpg
+Lombre,"Water, Grass",https://img.pokemondb.net/sprites/home/normal/2x/lombre.jpg
+Ludicolo,"Water, Grass",https://img.pokemondb.net/sprites/home/normal/2x/ludicolo.jpg
+Seedot,Grass,https://img.pokemondb.net/sprites/home/normal/2x/seedot.jpg
+Nuzleaf,"Grass, Dark",https://img.pokemondb.net/sprites/home/normal/2x/nuzleaf.jpg
+Shiftry,"Grass, Dark",https://img.pokemondb.net/sprites/home/normal/2x/shiftry.jpg
+Taillow,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/taillow.jpg
+Swellow,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/swellow.jpg
+Wingull,"Water, Flying",https://img.pokemondb.net/sprites/home/normal/2x/wingull.jpg
+Pelipper,"Water, Flying",https://img.pokemondb.net/sprites/home/normal/2x/pelipper.jpg
+Ralts,"Psychic, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/ralts.jpg
+Kirlia,"Psychic, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/kirlia.jpg
+Gardevoir,"Psychic, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/gardevoir.jpg
+Surskit,"Bug, Water",https://img.pokemondb.net/sprites/home/normal/2x/surskit.jpg
+Masquerain,"Bug, Flying",https://img.pokemondb.net/sprites/home/normal/2x/masquerain.jpg
+Shroomish,Grass,https://img.pokemondb.net/sprites/home/normal/2x/shroomish.jpg
+Breloom,"Grass, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/breloom.jpg
+Slakoth,Normal,https://img.pokemondb.net/sprites/home/normal/2x/slakoth.jpg
+Vigoroth,Normal,https://img.pokemondb.net/sprites/home/normal/2x/vigoroth.jpg
+Slaking,Normal,https://img.pokemondb.net/sprites/home/normal/2x/slaking.jpg
+Nincada,"Bug, Ground",https://img.pokemondb.net/sprites/home/normal/2x/nincada.jpg
+Ninjask,"Bug, Flying",https://img.pokemondb.net/sprites/home/normal/2x/ninjask.jpg
+Shedinja,"Bug, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/shedinja.jpg
+Whismur,Normal,https://img.pokemondb.net/sprites/home/normal/2x/whismur.jpg
+Loudred,Normal,https://img.pokemondb.net/sprites/home/normal/2x/loudred.jpg
+Exploud,Normal,https://img.pokemondb.net/sprites/home/normal/2x/exploud.jpg
+Makuhita,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/makuhita.jpg
+Hariyama,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/hariyama.jpg
+Azurill,"Normal, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/azurill.jpg
+Nosepass,Rock,https://img.pokemondb.net/sprites/home/normal/2x/nosepass.jpg
+Skitty,Normal,https://img.pokemondb.net/sprites/home/normal/2x/skitty.jpg
+Delcatty,Normal,https://img.pokemondb.net/sprites/home/normal/2x/delcatty.jpg
+Sableye,"Dark, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/sableye.jpg
+Mawile,"Steel, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/mawile.jpg
+Aron,"Steel, Rock",https://img.pokemondb.net/sprites/home/normal/2x/aron.jpg
+Lairon,"Steel, Rock",https://img.pokemondb.net/sprites/home/normal/2x/lairon.jpg
+Aggron,"Steel, Rock",https://img.pokemondb.net/sprites/home/normal/2x/aggron.jpg
+Meditite,"Fighting, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/meditite.jpg
+Medicham,"Fighting, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/medicham.jpg
+Electrike,Electric,https://img.pokemondb.net/sprites/home/normal/2x/electrike.jpg
+Manectric,Electric,https://img.pokemondb.net/sprites/home/normal/2x/manectric.jpg
+Plusle,Electric,https://img.pokemondb.net/sprites/home/normal/2x/plusle.jpg
+Minun,Electric,https://img.pokemondb.net/sprites/home/normal/2x/minun.jpg
+Volbeat,Bug,https://img.pokemondb.net/sprites/home/normal/2x/volbeat.jpg
+Illumise,Bug,https://img.pokemondb.net/sprites/home/normal/2x/illumise.jpg
+Roselia,"Grass, Poison",https://img.pokemondb.net/sprites/home/normal/2x/roselia.jpg
+Gulpin,Poison,https://img.pokemondb.net/sprites/home/normal/2x/gulpin.jpg
+Swalot,Poison,https://img.pokemondb.net/sprites/home/normal/2x/swalot.jpg
+Carvanha,"Water, Dark",https://img.pokemondb.net/sprites/home/normal/2x/carvanha.jpg
+Sharpedo,"Water, Dark",https://img.pokemondb.net/sprites/home/normal/2x/sharpedo.jpg
+Wailmer,Water,https://img.pokemondb.net/sprites/home/normal/2x/wailmer.jpg
+Wailord,Water,https://img.pokemondb.net/sprites/home/normal/2x/wailord.jpg
+Numel,"Fire, Ground",https://img.pokemondb.net/sprites/home/normal/2x/numel.jpg
+Camerupt,"Fire, Ground",https://img.pokemondb.net/sprites/home/normal/2x/camerupt.jpg
+Torkoal,Fire,https://img.pokemondb.net/sprites/home/normal/2x/torkoal.jpg
+Spoink,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/spoink.jpg
+Grumpig,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/grumpig.jpg
+Spinda,Normal,https://img.pokemondb.net/sprites/home/normal/2x/spinda.jpg
+Trapinch,Ground,https://img.pokemondb.net/sprites/home/normal/2x/trapinch.jpg
+Vibrava,"Ground, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/vibrava.jpg
+Flygon,"Ground, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/flygon.jpg
+Cacnea,Grass,https://img.pokemondb.net/sprites/home/normal/2x/cacnea.jpg
+Cacturne,"Grass, Dark",https://img.pokemondb.net/sprites/home/normal/2x/cacturne.jpg
+Swablu,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/swablu.jpg
+Altaria,"Dragon, Flying",https://img.pokemondb.net/sprites/home/normal/2x/altaria.jpg
+Zangoose,Normal,https://img.pokemondb.net/sprites/home/normal/2x/zangoose.jpg
+Seviper,Poison,https://img.pokemondb.net/sprites/home/normal/2x/seviper.jpg
+Lunatone,"Rock, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/lunatone.jpg
+Solrock,"Rock, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/solrock.jpg
+Barboach,"Water, Ground",https://img.pokemondb.net/sprites/home/normal/2x/barboach.jpg
+Whiscash,"Water, Ground",https://img.pokemondb.net/sprites/home/normal/2x/whiscash.jpg
+Corphish,Water,https://img.pokemondb.net/sprites/home/normal/2x/corphish.jpg
+Crawdaunt,"Water, Dark",https://img.pokemondb.net/sprites/home/normal/2x/crawdaunt.jpg
+Baltoy,"Ground, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/baltoy.jpg
+Claydol,"Ground, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/claydol.jpg
+Lileep,"Rock, Grass",https://img.pokemondb.net/sprites/home/normal/2x/lileep.jpg
+Cradily,"Rock, Grass",https://img.pokemondb.net/sprites/home/normal/2x/cradily.jpg
+Anorith,"Rock, Bug",https://img.pokemondb.net/sprites/home/normal/2x/anorith.jpg
+Armaldo,"Rock, Bug",https://img.pokemondb.net/sprites/home/normal/2x/armaldo.jpg
+Feebas,Water,https://img.pokemondb.net/sprites/home/normal/2x/feebas.jpg
+Milotic,Water,https://img.pokemondb.net/sprites/home/normal/2x/milotic.jpg
+Castform,Normal,https://img.pokemondb.net/sprites/home/normal/2x/castform.jpg
+Kecleon,Normal,https://img.pokemondb.net/sprites/home/normal/2x/kecleon.jpg
+Shuppet,Ghost,https://img.pokemondb.net/sprites/home/normal/2x/shuppet.jpg
+Banette,Ghost,https://img.pokemondb.net/sprites/home/normal/2x/banette.jpg
+Duskull,Ghost,https://img.pokemondb.net/sprites/home/normal/2x/duskull.jpg
+Dusclops,Ghost,https://img.pokemondb.net/sprites/home/normal/2x/dusclops.jpg
+Tropius,"Grass, Flying",https://img.pokemondb.net/sprites/home/normal/2x/tropius.jpg
+Chimecho,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/chimecho.jpg
+Absol,Dark,https://img.pokemondb.net/sprites/home/normal/2x/absol.jpg
+Wynaut,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/wynaut.jpg
+Snorunt,Ice,https://img.pokemondb.net/sprites/home/normal/2x/snorunt.jpg
+Glalie,Ice,https://img.pokemondb.net/sprites/home/normal/2x/glalie.jpg
+Spheal,"Ice, Water",https://img.pokemondb.net/sprites/home/normal/2x/spheal.jpg
+Sealeo,"Ice, Water",https://img.pokemondb.net/sprites/home/normal/2x/sealeo.jpg
+Walrein,"Ice, Water",https://img.pokemondb.net/sprites/home/normal/2x/walrein.jpg
+Clamperl,Water,https://img.pokemondb.net/sprites/home/normal/2x/clamperl.jpg
+Huntail,Water,https://img.pokemondb.net/sprites/home/normal/2x/huntail.jpg
+Gorebyss,Water,https://img.pokemondb.net/sprites/home/normal/2x/gorebyss.jpg
+Relicanth,"Water, Rock",https://img.pokemondb.net/sprites/home/normal/2x/relicanth.jpg
+Luvdisc,Water,https://img.pokemondb.net/sprites/home/normal/2x/luvdisc.jpg
+Bagon,Dragon,https://img.pokemondb.net/sprites/home/normal/2x/bagon.jpg
+Shelgon,Dragon,https://img.pokemondb.net/sprites/home/normal/2x/shelgon.jpg
+Salamence,"Dragon, Flying",https://img.pokemondb.net/sprites/home/normal/2x/salamence.jpg
+Beldum,"Steel, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/beldum.jpg
+Metang,"Steel, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/metang.jpg
+Metagross,"Steel, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/metagross.jpg
+Regirock,Rock,https://img.pokemondb.net/sprites/home/normal/2x/regirock.jpg
+Regice,Ice,https://img.pokemondb.net/sprites/home/normal/2x/regice.jpg
+Registeel,Steel,https://img.pokemondb.net/sprites/home/normal/2x/registeel.jpg
+Latias,"Dragon, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/latias.jpg
+Latios,"Dragon, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/latios.jpg
+Kyogre,Water,https://img.pokemondb.net/sprites/home/normal/2x/kyogre.jpg
+Groudon,Ground,https://img.pokemondb.net/sprites/home/normal/2x/groudon.jpg
+Rayquaza,"Dragon, Flying",https://img.pokemondb.net/sprites/home/normal/2x/rayquaza.jpg
+Jirachi,"Steel, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/jirachi.jpg
+Deoxys,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/deoxys.jpg
+Turtwig,Grass,https://img.pokemondb.net/sprites/home/normal/2x/turtwig.jpg
+Grotle,Grass,https://img.pokemondb.net/sprites/home/normal/2x/grotle.jpg
+Torterra,"Grass, Ground",https://img.pokemondb.net/sprites/home/normal/2x/torterra.jpg
+Chimchar,Fire,https://img.pokemondb.net/sprites/home/normal/2x/chimchar.jpg
+Monferno,"Fire, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/monferno.jpg
+Infernape,"Fire, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/infernape.jpg
+Piplup,Water,https://img.pokemondb.net/sprites/home/normal/2x/piplup.jpg
+Prinplup,Water,https://img.pokemondb.net/sprites/home/normal/2x/prinplup.jpg
+Empoleon,"Water, Steel",https://img.pokemondb.net/sprites/home/normal/2x/empoleon.jpg
+Starly,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/starly.jpg
+Staravia,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/staravia.jpg
+Staraptor,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/staraptor.jpg
+Bidoof,Normal,https://img.pokemondb.net/sprites/home/normal/2x/bidoof.jpg
+Bibarel,"Normal, Water",https://img.pokemondb.net/sprites/home/normal/2x/bibarel.jpg
+Kricketot,Bug,https://img.pokemondb.net/sprites/home/normal/2x/kricketot.jpg
+Kricketune,Bug,https://img.pokemondb.net/sprites/home/normal/2x/kricketune.jpg
+Shinx,Electric,https://img.pokemondb.net/sprites/home/normal/2x/shinx.jpg
+Luxio,Electric,https://img.pokemondb.net/sprites/home/normal/2x/luxio.jpg
+Luxray,Electric,https://img.pokemondb.net/sprites/home/normal/2x/luxray.jpg
+Budew,"Grass, Poison",https://img.pokemondb.net/sprites/home/normal/2x/budew.jpg
+Roserade,"Grass, Poison",https://img.pokemondb.net/sprites/home/normal/2x/roserade.jpg
+Cranidos,Rock,https://img.pokemondb.net/sprites/home/normal/2x/cranidos.jpg
+Rampardos,Rock,https://img.pokemondb.net/sprites/home/normal/2x/rampardos.jpg
+Shieldon,"Rock, Steel",https://img.pokemondb.net/sprites/home/normal/2x/shieldon.jpg
+Bastiodon,"Rock, Steel",https://img.pokemondb.net/sprites/home/normal/2x/bastiodon.jpg
+Burmy,Bug,https://img.pokemondb.net/sprites/home/normal/2x/burmy.jpg
+Wormadam,"Bug, Grass",https://img.pokemondb.net/sprites/home/normal/2x/wormadam.jpg
+Mothim,"Bug, Flying",https://img.pokemondb.net/sprites/home/normal/2x/mothim.jpg
+Combee,"Bug, Flying",https://img.pokemondb.net/sprites/home/normal/2x/combee.jpg
+Vespiquen,"Bug, Flying",https://img.pokemondb.net/sprites/home/normal/2x/vespiquen.jpg
+Pachirisu,Electric,https://img.pokemondb.net/sprites/home/normal/2x/pachirisu.jpg
+Buizel,Water,https://img.pokemondb.net/sprites/home/normal/2x/buizel.jpg
+Floatzel,Water,https://img.pokemondb.net/sprites/home/normal/2x/floatzel.jpg
+Cherubi,Grass,https://img.pokemondb.net/sprites/home/normal/2x/cherubi.jpg
+Cherrim,Grass,https://img.pokemondb.net/sprites/home/normal/2x/cherrim.jpg
+Shellos,Water,https://img.pokemondb.net/sprites/home/normal/2x/shellos.jpg
+Gastrodon,"Water, Ground",https://img.pokemondb.net/sprites/home/normal/2x/gastrodon.jpg
+Ambipom,Normal,https://img.pokemondb.net/sprites/home/normal/2x/ambipom.jpg
+Drifloon,"Ghost, Flying",https://img.pokemondb.net/sprites/home/normal/2x/drifloon.jpg
+Drifblim,"Ghost, Flying",https://img.pokemondb.net/sprites/home/normal/2x/drifblim.jpg
+Buneary,Normal,https://img.pokemondb.net/sprites/home/normal/2x/buneary.jpg
+Lopunny,Normal,https://img.pokemondb.net/sprites/home/normal/2x/lopunny.jpg
+Mismagius,Ghost,https://img.pokemondb.net/sprites/home/normal/2x/mismagius.jpg
+Honchkrow,"Dark, Flying",https://img.pokemondb.net/sprites/home/normal/2x/honchkrow.jpg
+Glameow,Normal,https://img.pokemondb.net/sprites/home/normal/2x/glameow.jpg
+Purugly,Normal,https://img.pokemondb.net/sprites/home/normal/2x/purugly.jpg
+Chingling,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/chingling.jpg
+Stunky,"Poison, Dark",https://img.pokemondb.net/sprites/home/normal/2x/stunky.jpg
+Skuntank,"Poison, Dark",https://img.pokemondb.net/sprites/home/normal/2x/skuntank.jpg
+Bronzor,"Steel, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/bronzor.jpg
+Bronzong,"Steel, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/bronzong.jpg
+Bonsly,Rock,https://img.pokemondb.net/sprites/home/normal/2x/bonsly.jpg
+Mime Jr.,"Psychic, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/mime-jr.jpg
+Happiny,Normal,https://img.pokemondb.net/sprites/home/normal/2x/happiny.jpg
+Chatot,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/chatot.jpg
+Spiritomb,"Ghost, Dark",https://img.pokemondb.net/sprites/home/normal/2x/spiritomb.jpg
+Gible,"Dragon, Ground",https://img.pokemondb.net/sprites/home/normal/2x/gible.jpg
+Gabite,"Dragon, Ground",https://img.pokemondb.net/sprites/home/normal/2x/gabite.jpg
+Garchomp,"Dragon, Ground",https://img.pokemondb.net/sprites/home/normal/2x/garchomp.jpg
+Munchlax,Normal,https://img.pokemondb.net/sprites/home/normal/2x/munchlax.jpg
+Riolu,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/riolu.jpg
+Lucario,"Fighting, Steel",https://img.pokemondb.net/sprites/home/normal/2x/lucario.jpg
+Hippopotas,Ground,https://img.pokemondb.net/sprites/home/normal/2x/hippopotas.jpg
+Hippowdon,Ground,https://img.pokemondb.net/sprites/home/normal/2x/hippowdon.jpg
+Skorupi,"Poison, Bug",https://img.pokemondb.net/sprites/home/normal/2x/skorupi.jpg
+Drapion,"Poison, Dark",https://img.pokemondb.net/sprites/home/normal/2x/drapion.jpg
+Croagunk,"Poison, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/croagunk.jpg
+Toxicroak,"Poison, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/toxicroak.jpg
+Carnivine,Grass,https://img.pokemondb.net/sprites/home/normal/2x/carnivine.jpg
+Finneon,Water,https://img.pokemondb.net/sprites/home/normal/2x/finneon.jpg
+Lumineon,Water,https://img.pokemondb.net/sprites/home/normal/2x/lumineon.jpg
+Mantyke,"Water, Flying",https://img.pokemondb.net/sprites/home/normal/2x/mantyke.jpg
+Snover,"Grass, Ice",https://img.pokemondb.net/sprites/home/normal/2x/snover.jpg
+Abomasnow,"Grass, Ice",https://img.pokemondb.net/sprites/home/normal/2x/abomasnow.jpg
+Weavile,"Dark, Ice",https://img.pokemondb.net/sprites/home/normal/2x/weavile.jpg
+Magnezone,"Electric, Steel",https://img.pokemondb.net/sprites/home/normal/2x/magnezone.jpg
+Lickilicky,Normal,https://img.pokemondb.net/sprites/home/normal/2x/lickilicky.jpg
+Rhyperior,"Ground, Rock",https://img.pokemondb.net/sprites/home/normal/2x/rhyperior.jpg
+Tangrowth,Grass,https://img.pokemondb.net/sprites/home/normal/2x/tangrowth.jpg
+Electivire,Electric,https://img.pokemondb.net/sprites/home/normal/2x/electivire.jpg
+Magmortar,Fire,https://img.pokemondb.net/sprites/home/normal/2x/magmortar.jpg
+Togekiss,"Fairy, Flying",https://img.pokemondb.net/sprites/home/normal/2x/togekiss.jpg
+Yanmega,"Bug, Flying",https://img.pokemondb.net/sprites/home/normal/2x/yanmega.jpg
+Leafeon,Grass,https://img.pokemondb.net/sprites/home/normal/2x/leafeon.jpg
+Glaceon,Ice,https://img.pokemondb.net/sprites/home/normal/2x/glaceon.jpg
+Gliscor,"Ground, Flying",https://img.pokemondb.net/sprites/home/normal/2x/gliscor.jpg
+Mamoswine,"Ice, Ground",https://img.pokemondb.net/sprites/home/normal/2x/mamoswine.jpg
+Porygon-Z,Normal,https://img.pokemondb.net/sprites/home/normal/2x/porygon-z.jpg
+Gallade,"Psychic, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/gallade.jpg
+Probopass,"Rock, Steel",https://img.pokemondb.net/sprites/home/normal/2x/probopass.jpg
+Dusknoir,Ghost,https://img.pokemondb.net/sprites/home/normal/2x/dusknoir.jpg
+Froslass,"Ice, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/froslass.jpg
+Rotom,"Electric, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/rotom.jpg
+Uxie,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/uxie.jpg
+Mesprit,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/mesprit.jpg
+Azelf,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/azelf.jpg
+Dialga,"Steel, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/dialga.jpg
+Palkia,"Water, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/palkia.jpg
+Heatran,"Fire, Steel",https://img.pokemondb.net/sprites/home/normal/2x/heatran.jpg
+Regigigas,Normal,https://img.pokemondb.net/sprites/home/normal/2x/regigigas.jpg
+Giratina,"Ghost, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/giratina.jpg
+Cresselia,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/cresselia.jpg
+Phione,Water,https://img.pokemondb.net/sprites/home/normal/2x/phione.jpg
+Manaphy,Water,https://img.pokemondb.net/sprites/home/normal/2x/manaphy.jpg
+Darkrai,Dark,https://img.pokemondb.net/sprites/home/normal/2x/darkrai.jpg
+Shaymin,Grass,https://img.pokemondb.net/sprites/home/normal/2x/shaymin.jpg
+Arceus,Normal,https://img.pokemondb.net/sprites/home/normal/2x/arceus.jpg
+Victini,"Psychic, Fire",https://img.pokemondb.net/sprites/home/normal/2x/victini.jpg
+Snivy,Grass,https://img.pokemondb.net/sprites/home/normal/2x/snivy.jpg
+Servine,Grass,https://img.pokemondb.net/sprites/home/normal/2x/servine.jpg
+Serperior,Grass,https://img.pokemondb.net/sprites/home/normal/2x/serperior.jpg
+Tepig,Fire,https://img.pokemondb.net/sprites/home/normal/2x/tepig.jpg
+Pignite,"Fire, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/pignite.jpg
+Emboar,"Fire, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/emboar.jpg
+Oshawott,Water,https://img.pokemondb.net/sprites/home/normal/2x/oshawott.jpg
+Dewott,Water,https://img.pokemondb.net/sprites/home/normal/2x/dewott.jpg
+Samurott,Water,https://img.pokemondb.net/sprites/home/normal/2x/samurott.jpg
+Patrat,Normal,https://img.pokemondb.net/sprites/home/normal/2x/patrat.jpg
+Watchog,Normal,https://img.pokemondb.net/sprites/home/normal/2x/watchog.jpg
+Lillipup,Normal,https://img.pokemondb.net/sprites/home/normal/2x/lillipup.jpg
+Herdier,Normal,https://img.pokemondb.net/sprites/home/normal/2x/herdier.jpg
+Stoutland,Normal,https://img.pokemondb.net/sprites/home/normal/2x/stoutland.jpg
+Purrloin,Dark,https://img.pokemondb.net/sprites/home/normal/2x/purrloin.jpg
+Liepard,Dark,https://img.pokemondb.net/sprites/home/normal/2x/liepard.jpg
+Pansage,Grass,https://img.pokemondb.net/sprites/home/normal/2x/pansage.jpg
+Simisage,Grass,https://img.pokemondb.net/sprites/home/normal/2x/simisage.jpg
+Pansear,Fire,https://img.pokemondb.net/sprites/home/normal/2x/pansear.jpg
+Simisear,Fire,https://img.pokemondb.net/sprites/home/normal/2x/simisear.jpg
+Panpour,Water,https://img.pokemondb.net/sprites/home/normal/2x/panpour.jpg
+Simipour,Water,https://img.pokemondb.net/sprites/home/normal/2x/simipour.jpg
+Munna,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/munna.jpg
+Musharna,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/musharna.jpg
+Pidove,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/pidove.jpg
+Tranquill,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/tranquill.jpg
+Unfezant,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/unfezant.jpg
+Blitzle,Electric,https://img.pokemondb.net/sprites/home/normal/2x/blitzle.jpg
+Zebstrika,Electric,https://img.pokemondb.net/sprites/home/normal/2x/zebstrika.jpg
+Roggenrola,Rock,https://img.pokemondb.net/sprites/home/normal/2x/roggenrola.jpg
+Boldore,Rock,https://img.pokemondb.net/sprites/home/normal/2x/boldore.jpg
+Gigalith,Rock,https://img.pokemondb.net/sprites/home/normal/2x/gigalith.jpg
+Woobat,"Psychic, Flying",https://img.pokemondb.net/sprites/home/normal/2x/woobat.jpg
+Swoobat,"Psychic, Flying",https://img.pokemondb.net/sprites/home/normal/2x/swoobat.jpg
+Drilbur,Ground,https://img.pokemondb.net/sprites/home/normal/2x/drilbur.jpg
+Excadrill,"Ground, Steel",https://img.pokemondb.net/sprites/home/normal/2x/excadrill.jpg
+Audino,Normal,https://img.pokemondb.net/sprites/home/normal/2x/audino.jpg
+Timburr,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/timburr.jpg
+Gurdurr,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/gurdurr.jpg
+Conkeldurr,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/conkeldurr.jpg
+Tympole,Water,https://img.pokemondb.net/sprites/home/normal/2x/tympole.jpg
+Palpitoad,"Water, Ground",https://img.pokemondb.net/sprites/home/normal/2x/palpitoad.jpg
+Seismitoad,"Water, Ground",https://img.pokemondb.net/sprites/home/normal/2x/seismitoad.jpg
+Throh,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/throh.jpg
+Sawk,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/sawk.jpg
+Sewaddle,"Bug, Grass",https://img.pokemondb.net/sprites/home/normal/2x/sewaddle.jpg
+Swadloon,"Bug, Grass",https://img.pokemondb.net/sprites/home/normal/2x/swadloon.jpg
+Leavanny,"Bug, Grass",https://img.pokemondb.net/sprites/home/normal/2x/leavanny.jpg
+Venipede,"Bug, Poison",https://img.pokemondb.net/sprites/home/normal/2x/venipede.jpg
+Whirlipede,"Bug, Poison",https://img.pokemondb.net/sprites/home/normal/2x/whirlipede.jpg
+Scolipede,"Bug, Poison",https://img.pokemondb.net/sprites/home/normal/2x/scolipede.jpg
+Cottonee,"Grass, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/cottonee.jpg
+Whimsicott,"Grass, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/whimsicott.jpg
+Petilil,Grass,https://img.pokemondb.net/sprites/home/normal/2x/petilil.jpg
+Lilligant,Grass,https://img.pokemondb.net/sprites/home/normal/2x/lilligant.jpg
+Basculin,Water,https://img.pokemondb.net/sprites/home/normal/2x/basculin.jpg
+Sandile,"Ground, Dark",https://img.pokemondb.net/sprites/home/normal/2x/sandile.jpg
+Krokorok,"Ground, Dark",https://img.pokemondb.net/sprites/home/normal/2x/krokorok.jpg
+Krookodile,"Ground, Dark",https://img.pokemondb.net/sprites/home/normal/2x/krookodile.jpg
+Darumaka,Fire,https://img.pokemondb.net/sprites/home/normal/2x/darumaka.jpg
+Darmanitan,Fire,https://img.pokemondb.net/sprites/home/normal/2x/darmanitan.jpg
+Maractus,Grass,https://img.pokemondb.net/sprites/home/normal/2x/maractus.jpg
+Dwebble,"Bug, Rock",https://img.pokemondb.net/sprites/home/normal/2x/dwebble.jpg
+Crustle,"Bug, Rock",https://img.pokemondb.net/sprites/home/normal/2x/crustle.jpg
+Scraggy,"Dark, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/scraggy.jpg
+Scrafty,"Dark, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/scrafty.jpg
+Sigilyph,"Psychic, Flying",https://img.pokemondb.net/sprites/home/normal/2x/sigilyph.jpg
+Yamask,Ghost,https://img.pokemondb.net/sprites/home/normal/2x/yamask.jpg
+Cofagrigus,Ghost,https://img.pokemondb.net/sprites/home/normal/2x/cofagrigus.jpg
+Tirtouga,"Water, Rock",https://img.pokemondb.net/sprites/home/normal/2x/tirtouga.jpg
+Carracosta,"Water, Rock",https://img.pokemondb.net/sprites/home/normal/2x/carracosta.jpg
+Archen,"Rock, Flying",https://img.pokemondb.net/sprites/home/normal/2x/archen.jpg
+Archeops,"Rock, Flying",https://img.pokemondb.net/sprites/home/normal/2x/archeops.jpg
+Trubbish,Poison,https://img.pokemondb.net/sprites/home/normal/2x/trubbish.jpg
+Garbodor,Poison,https://img.pokemondb.net/sprites/home/normal/2x/garbodor.jpg
+Zorua,Dark,https://img.pokemondb.net/sprites/home/normal/2x/zorua.jpg
+Zoroark,Dark,https://img.pokemondb.net/sprites/home/normal/2x/zoroark.jpg
+Minccino,Normal,https://img.pokemondb.net/sprites/home/normal/2x/minccino.jpg
+Cinccino,Normal,https://img.pokemondb.net/sprites/home/normal/2x/cinccino.jpg
+Gothita,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/gothita.jpg
+Gothorita,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/gothorita.jpg
+Gothitelle,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/gothitelle.jpg
+Solosis,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/solosis.jpg
+Duosion,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/duosion.jpg
+Reuniclus,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/reuniclus.jpg
+Ducklett,"Water, Flying",https://img.pokemondb.net/sprites/home/normal/2x/ducklett.jpg
+Swanna,"Water, Flying",https://img.pokemondb.net/sprites/home/normal/2x/swanna.jpg
+Vanillite,Ice,https://img.pokemondb.net/sprites/home/normal/2x/vanillite.jpg
+Vanillish,Ice,https://img.pokemondb.net/sprites/home/normal/2x/vanillish.jpg
+Vanilluxe,Ice,https://img.pokemondb.net/sprites/home/normal/2x/vanilluxe.jpg
+Deerling,"Normal, Grass",https://img.pokemondb.net/sprites/home/normal/2x/deerling.jpg
+Sawsbuck,"Normal, Grass",https://img.pokemondb.net/sprites/home/normal/2x/sawsbuck.jpg
+Emolga,"Electric, Flying",https://img.pokemondb.net/sprites/home/normal/2x/emolga.jpg
+Karrablast,Bug,https://img.pokemondb.net/sprites/home/normal/2x/karrablast.jpg
+Escavalier,"Bug, Steel",https://img.pokemondb.net/sprites/home/normal/2x/escavalier.jpg
+Foongus,"Grass, Poison",https://img.pokemondb.net/sprites/home/normal/2x/foongus.jpg
+Amoonguss,"Grass, Poison",https://img.pokemondb.net/sprites/home/normal/2x/amoonguss.jpg
+Frillish,"Water, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/frillish.jpg
+Jellicent,"Water, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/jellicent.jpg
+Alomomola,Water,https://img.pokemondb.net/sprites/home/normal/2x/alomomola.jpg
+Joltik,"Bug, Electric",https://img.pokemondb.net/sprites/home/normal/2x/joltik.jpg
+Galvantula,"Bug, Electric",https://img.pokemondb.net/sprites/home/normal/2x/galvantula.jpg
+Ferroseed,"Grass, Steel",https://img.pokemondb.net/sprites/home/normal/2x/ferroseed.jpg
+Ferrothorn,"Grass, Steel",https://img.pokemondb.net/sprites/home/normal/2x/ferrothorn.jpg
+Klink,Steel,https://img.pokemondb.net/sprites/home/normal/2x/klink.jpg
+Klang,Steel,https://img.pokemondb.net/sprites/home/normal/2x/klang.jpg
+Klinklang,Steel,https://img.pokemondb.net/sprites/home/normal/2x/klinklang.jpg
+Tynamo,Electric,https://img.pokemondb.net/sprites/home/normal/2x/tynamo.jpg
+Eelektrik,Electric,https://img.pokemondb.net/sprites/home/normal/2x/eelektrik.jpg
+Eelektross,Electric,https://img.pokemondb.net/sprites/home/normal/2x/eelektross.jpg
+Elgyem,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/elgyem.jpg
+Beheeyem,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/beheeyem.jpg
+Litwick,"Ghost, Fire",https://img.pokemondb.net/sprites/home/normal/2x/litwick.jpg
+Lampent,"Ghost, Fire",https://img.pokemondb.net/sprites/home/normal/2x/lampent.jpg
+Chandelure,"Ghost, Fire",https://img.pokemondb.net/sprites/home/normal/2x/chandelure.jpg
+Axew,Dragon,https://img.pokemondb.net/sprites/home/normal/2x/axew.jpg
+Fraxure,Dragon,https://img.pokemondb.net/sprites/home/normal/2x/fraxure.jpg
+Haxorus,Dragon,https://img.pokemondb.net/sprites/home/normal/2x/haxorus.jpg
+Cubchoo,Ice,https://img.pokemondb.net/sprites/home/normal/2x/cubchoo.jpg
+Beartic,Ice,https://img.pokemondb.net/sprites/home/normal/2x/beartic.jpg
+Cryogonal,Ice,https://img.pokemondb.net/sprites/home/normal/2x/cryogonal.jpg
+Shelmet,Bug,https://img.pokemondb.net/sprites/home/normal/2x/shelmet.jpg
+Accelgor,Bug,https://img.pokemondb.net/sprites/home/normal/2x/accelgor.jpg
+Stunfisk,"Ground, Electric",https://img.pokemondb.net/sprites/home/normal/2x/stunfisk.jpg
+Mienfoo,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/mienfoo.jpg
+Mienshao,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/mienshao.jpg
+Druddigon,Dragon,https://img.pokemondb.net/sprites/home/normal/2x/druddigon.jpg
+Golett,"Ground, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/golett.jpg
+Golurk,"Ground, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/golurk.jpg
+Pawniard,"Dark, Steel",https://img.pokemondb.net/sprites/home/normal/2x/pawniard.jpg
+Bisharp,"Dark, Steel",https://img.pokemondb.net/sprites/home/normal/2x/bisharp.jpg
+Bouffalant,Normal,https://img.pokemondb.net/sprites/home/normal/2x/bouffalant.jpg
+Rufflet,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/rufflet.jpg
+Braviary,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/braviary.jpg
+Vullaby,"Dark, Flying",https://img.pokemondb.net/sprites/home/normal/2x/vullaby.jpg
+Mandibuzz,"Dark, Flying",https://img.pokemondb.net/sprites/home/normal/2x/mandibuzz.jpg
+Heatmor,Fire,https://img.pokemondb.net/sprites/home/normal/2x/heatmor.jpg
+Durant,"Bug, Steel",https://img.pokemondb.net/sprites/home/normal/2x/durant.jpg
+Deino,"Dark, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/deino.jpg
+Zweilous,"Dark, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/zweilous.jpg
+Hydreigon,"Dark, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/hydreigon.jpg
+Larvesta,"Bug, Fire",https://img.pokemondb.net/sprites/home/normal/2x/larvesta.jpg
+Volcarona,"Bug, Fire",https://img.pokemondb.net/sprites/home/normal/2x/volcarona.jpg
+Cobalion,"Steel, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/cobalion.jpg
+Terrakion,"Rock, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/terrakion.jpg
+Virizion,"Grass, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/virizion.jpg
+Tornadus,Flying,https://img.pokemondb.net/sprites/home/normal/2x/tornadus.jpg
+Thundurus,"Electric, Flying",https://img.pokemondb.net/sprites/home/normal/2x/thundurus.jpg
+Reshiram,"Dragon, Fire",https://img.pokemondb.net/sprites/home/normal/2x/reshiram.jpg
+Zekrom,"Dragon, Electric",https://img.pokemondb.net/sprites/home/normal/2x/zekrom.jpg
+Landorus,"Ground, Flying",https://img.pokemondb.net/sprites/home/normal/2x/landorus.jpg
+Kyurem,"Dragon, Ice",https://img.pokemondb.net/sprites/home/normal/2x/kyurem.jpg
+Keldeo,"Water, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/keldeo.jpg
+Meloetta,"Normal, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/meloetta.jpg
+Genesect,"Bug, Steel",https://img.pokemondb.net/sprites/home/normal/2x/genesect.jpg
+Chespin,Grass,https://img.pokemondb.net/sprites/home/normal/2x/chespin.jpg
+Quilladin,Grass,https://img.pokemondb.net/sprites/home/normal/2x/quilladin.jpg
+Chesnaught,"Grass, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/chesnaught.jpg
+Fennekin,Fire,https://img.pokemondb.net/sprites/home/normal/2x/fennekin.jpg
+Braixen,Fire,https://img.pokemondb.net/sprites/home/normal/2x/braixen.jpg
+Delphox,"Fire, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/delphox.jpg
+Froakie,Water,https://img.pokemondb.net/sprites/home/normal/2x/froakie.jpg
+Frogadier,Water,https://img.pokemondb.net/sprites/home/normal/2x/frogadier.jpg
+Greninja,"Water, Dark",https://img.pokemondb.net/sprites/home/normal/2x/greninja.jpg
+Bunnelby,Normal,https://img.pokemondb.net/sprites/home/normal/2x/bunnelby.jpg
+Diggersby,"Normal, Ground",https://img.pokemondb.net/sprites/home/normal/2x/diggersby.jpg
+Fletchling,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/fletchling.jpg
+Fletchinder,"Fire, Flying",https://img.pokemondb.net/sprites/home/normal/2x/fletchinder.jpg
+Talonflame,"Fire, Flying",https://img.pokemondb.net/sprites/home/normal/2x/talonflame.jpg
+Scatterbug,Bug,https://img.pokemondb.net/sprites/home/normal/2x/scatterbug.jpg
+Spewpa,Bug,https://img.pokemondb.net/sprites/home/normal/2x/spewpa.jpg
+Vivillon,"Bug, Flying",https://img.pokemondb.net/sprites/home/normal/2x/vivillon.jpg
+Litleo,"Fire, Normal",https://img.pokemondb.net/sprites/home/normal/2x/litleo.jpg
+Pyroar,"Fire, Normal",https://img.pokemondb.net/sprites/home/normal/2x/pyroar.jpg
+Flabébé,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/flabebe.jpg
+Floette,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/floette.jpg
+Florges,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/florges.jpg
+Skiddo,Grass,https://img.pokemondb.net/sprites/home/normal/2x/skiddo.jpg
+Gogoat,Grass,https://img.pokemondb.net/sprites/home/normal/2x/gogoat.jpg
+Pancham,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/pancham.jpg
+Pangoro,"Fighting, Dark",https://img.pokemondb.net/sprites/home/normal/2x/pangoro.jpg
+Furfrou,Normal,https://img.pokemondb.net/sprites/home/normal/2x/furfrou.jpg
+Espurr,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/espurr.jpg
+Meowstic,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/meowstic.jpg
+Honedge,"Steel, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/honedge.jpg
+Doublade,"Steel, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/doublade.jpg
+Aegislash,"Steel, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/aegislash.jpg
+Spritzee,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/spritzee.jpg
+Aromatisse,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/aromatisse.jpg
+Swirlix,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/swirlix.jpg
+Slurpuff,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/slurpuff.jpg
+Inkay,"Dark, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/inkay.jpg
+Malamar,"Dark, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/malamar.jpg
+Binacle,"Rock, Water",https://img.pokemondb.net/sprites/home/normal/2x/binacle.jpg
+Barbaracle,"Rock, Water",https://img.pokemondb.net/sprites/home/normal/2x/barbaracle.jpg
+Skrelp,"Poison, Water",https://img.pokemondb.net/sprites/home/normal/2x/skrelp.jpg
+Dragalge,"Poison, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/dragalge.jpg
+Clauncher,Water,https://img.pokemondb.net/sprites/home/normal/2x/clauncher.jpg
+Clawitzer,Water,https://img.pokemondb.net/sprites/home/normal/2x/clawitzer.jpg
+Helioptile,"Electric, Normal",https://img.pokemondb.net/sprites/home/normal/2x/helioptile.jpg
+Heliolisk,"Electric, Normal",https://img.pokemondb.net/sprites/home/normal/2x/heliolisk.jpg
+Tyrunt,"Rock, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/tyrunt.jpg
+Tyrantrum,"Rock, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/tyrantrum.jpg
+Amaura,"Rock, Ice",https://img.pokemondb.net/sprites/home/normal/2x/amaura.jpg
+Aurorus,"Rock, Ice",https://img.pokemondb.net/sprites/home/normal/2x/aurorus.jpg
+Sylveon,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/sylveon.jpg
+Hawlucha,"Fighting, Flying",https://img.pokemondb.net/sprites/home/normal/2x/hawlucha.jpg
+Dedenne,"Electric, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/dedenne.jpg
+Carbink,"Rock, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/carbink.jpg
+Goomy,Dragon,https://img.pokemondb.net/sprites/home/normal/2x/goomy.jpg
+Sliggoo,Dragon,https://img.pokemondb.net/sprites/home/normal/2x/sliggoo.jpg
+Goodra,Dragon,https://img.pokemondb.net/sprites/home/normal/2x/goodra.jpg
+Klefki,"Steel, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/klefki.jpg
+Phantump,"Ghost, Grass",https://img.pokemondb.net/sprites/home/normal/2x/phantump.jpg
+Trevenant,"Ghost, Grass",https://img.pokemondb.net/sprites/home/normal/2x/trevenant.jpg
+Pumpkaboo,"Ghost, Grass",https://img.pokemondb.net/sprites/home/normal/2x/pumpkaboo.jpg
+Gourgeist,"Ghost, Grass",https://img.pokemondb.net/sprites/home/normal/2x/gourgeist.jpg
+Bergmite,Ice,https://img.pokemondb.net/sprites/home/normal/2x/bergmite.jpg
+Avalugg,Ice,https://img.pokemondb.net/sprites/home/normal/2x/avalugg.jpg
+Noibat,"Flying, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/noibat.jpg
+Noivern,"Flying, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/noivern.jpg
+Xerneas,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/xerneas.jpg
+Yveltal,"Dark, Flying",https://img.pokemondb.net/sprites/home/normal/2x/yveltal.jpg
+Zygarde,"Dragon, Ground",https://img.pokemondb.net/sprites/home/normal/2x/zygarde.jpg
+Diancie,"Rock, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/diancie.jpg
+Hoopa,"Psychic, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/hoopa.jpg
+Volcanion,"Fire, Water",https://img.pokemondb.net/sprites/home/normal/2x/volcanion.jpg
+Rowlet,"Grass, Flying",https://img.pokemondb.net/sprites/home/normal/2x/rowlet.jpg
+Dartrix,"Grass, Flying",https://img.pokemondb.net/sprites/home/normal/2x/dartrix.jpg
+Decidueye,"Grass, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/decidueye.jpg
+Litten,Fire,https://img.pokemondb.net/sprites/home/normal/2x/litten.jpg
+Torracat,Fire,https://img.pokemondb.net/sprites/home/normal/2x/torracat.jpg
+Incineroar,"Fire, Dark",https://img.pokemondb.net/sprites/home/normal/2x/incineroar.jpg
+Popplio,Water,https://img.pokemondb.net/sprites/home/normal/2x/popplio.jpg
+Brionne,Water,https://img.pokemondb.net/sprites/home/normal/2x/brionne.jpg
+Primarina,"Water, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/primarina.jpg
+Pikipek,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/pikipek.jpg
+Trumbeak,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/trumbeak.jpg
+Toucannon,"Normal, Flying",https://img.pokemondb.net/sprites/home/normal/2x/toucannon.jpg
+Yungoos,Normal,https://img.pokemondb.net/sprites/home/normal/2x/yungoos.jpg
+Gumshoos,Normal,https://img.pokemondb.net/sprites/home/normal/2x/gumshoos.jpg
+Grubbin,Bug,https://img.pokemondb.net/sprites/home/normal/2x/grubbin.jpg
+Charjabug,"Bug, Electric",https://img.pokemondb.net/sprites/home/normal/2x/charjabug.jpg
+Vikavolt,"Bug, Electric",https://img.pokemondb.net/sprites/home/normal/2x/vikavolt.jpg
+Crabrawler,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/crabrawler.jpg
+Crabominable,"Fighting, Ice",https://img.pokemondb.net/sprites/home/normal/2x/crabominable.jpg
+Oricorio,"Fire, Flying",https://img.pokemondb.net/sprites/home/normal/2x/oricorio.jpg
+Cutiefly,"Bug, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/cutiefly.jpg
+Ribombee,"Bug, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/ribombee.jpg
+Rockruff,Rock,https://img.pokemondb.net/sprites/home/normal/2x/rockruff.jpg
+Lycanroc,Rock,https://img.pokemondb.net/sprites/home/normal/2x/lycanroc.jpg
+Wishiwashi,Water,https://img.pokemondb.net/sprites/home/normal/2x/wishiwashi.jpg
+Mareanie,"Poison, Water",https://img.pokemondb.net/sprites/home/normal/2x/mareanie.jpg
+Toxapex,"Poison, Water",https://img.pokemondb.net/sprites/home/normal/2x/toxapex.jpg
+Mudbray,Ground,https://img.pokemondb.net/sprites/home/normal/2x/mudbray.jpg
+Mudsdale,Ground,https://img.pokemondb.net/sprites/home/normal/2x/mudsdale.jpg
+Dewpider,"Water, Bug",https://img.pokemondb.net/sprites/home/normal/2x/dewpider.jpg
+Araquanid,"Water, Bug",https://img.pokemondb.net/sprites/home/normal/2x/araquanid.jpg
+Fomantis,Grass,https://img.pokemondb.net/sprites/home/normal/2x/fomantis.jpg
+Lurantis,Grass,https://img.pokemondb.net/sprites/home/normal/2x/lurantis.jpg
+Morelull,"Grass, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/morelull.jpg
+Shiinotic,"Grass, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/shiinotic.jpg
+Salandit,"Poison, Fire",https://img.pokemondb.net/sprites/home/normal/2x/salandit.jpg
+Salazzle,"Poison, Fire",https://img.pokemondb.net/sprites/home/normal/2x/salazzle.jpg
+Stufful,"Normal, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/stufful.jpg
+Bewear,"Normal, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/bewear.jpg
+Bounsweet,Grass,https://img.pokemondb.net/sprites/home/normal/2x/bounsweet.jpg
+Steenee,Grass,https://img.pokemondb.net/sprites/home/normal/2x/steenee.jpg
+Tsareena,Grass,https://img.pokemondb.net/sprites/home/normal/2x/tsareena.jpg
+Comfey,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/comfey.jpg
+Oranguru,"Normal, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/oranguru.jpg
+Passimian,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/passimian.jpg
+Wimpod,"Bug, Water",https://img.pokemondb.net/sprites/home/normal/2x/wimpod.jpg
+Golisopod,"Bug, Water",https://img.pokemondb.net/sprites/home/normal/2x/golisopod.jpg
+Sandygast,"Ghost, Ground",https://img.pokemondb.net/sprites/home/normal/2x/sandygast.jpg
+Palossand,"Ghost, Ground",https://img.pokemondb.net/sprites/home/normal/2x/palossand.jpg
+Pyukumuku,Water,https://img.pokemondb.net/sprites/home/normal/2x/pyukumuku.jpg
+Type: Null,Normal,https://img.pokemondb.net/sprites/home/normal/2x/type-null.jpg
+Silvally,Normal,https://img.pokemondb.net/sprites/home/normal/2x/silvally.jpg
+Minior,"Rock, Flying",https://img.pokemondb.net/sprites/home/normal/2x/minior.jpg
+Komala,Normal,https://img.pokemondb.net/sprites/home/normal/2x/komala.jpg
+Turtonator,"Fire, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/turtonator.jpg
+Togedemaru,"Electric, Steel",https://img.pokemondb.net/sprites/home/normal/2x/togedemaru.jpg
+Mimikyu,"Ghost, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/mimikyu.jpg
+Bruxish,"Water, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/bruxish.jpg
+Drampa,"Normal, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/drampa.jpg
+Dhelmise,"Ghost, Grass",https://img.pokemondb.net/sprites/home/normal/2x/dhelmise.jpg
+Jangmo-o,Dragon,https://img.pokemondb.net/sprites/home/normal/2x/jangmo-o.jpg
+Hakamo-o,"Dragon, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/hakamo-o.jpg
+Kommo-o,"Dragon, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/kommo-o.jpg
+Tapu Koko,"Electric, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/tapu-koko.jpg
+Tapu Lele,"Psychic, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/tapu-lele.jpg
+Tapu Bulu,"Grass, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/tapu-bulu.jpg
+Tapu Fini,"Water, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/tapu-fini.jpg
+Cosmog,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/cosmog.jpg
+Cosmoem,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/cosmoem.jpg
+Solgaleo,"Psychic, Steel",https://img.pokemondb.net/sprites/home/normal/2x/solgaleo.jpg
+Lunala,"Psychic, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/lunala.jpg
+Nihilego,"Rock, Poison",https://img.pokemondb.net/sprites/home/normal/2x/nihilego.jpg
+Buzzwole,"Bug, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/buzzwole.jpg
+Pheromosa,"Bug, Fighting",https://img.pokemondb.net/sprites/home/normal/2x/pheromosa.jpg
+Xurkitree,Electric,https://img.pokemondb.net/sprites/home/normal/2x/xurkitree.jpg
+Celesteela,"Steel, Flying",https://img.pokemondb.net/sprites/home/normal/2x/celesteela.jpg
+Kartana,"Grass, Steel",https://img.pokemondb.net/sprites/home/normal/2x/kartana.jpg
+Guzzlord,"Dark, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/guzzlord.jpg
+Necrozma,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/necrozma.jpg
+Magearna,"Steel, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/magearna.jpg
+Marshadow,"Fighting, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/marshadow.jpg
+Poipole,Poison,https://img.pokemondb.net/sprites/home/normal/2x/poipole.jpg
+Naganadel,"Poison, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/naganadel.jpg
+Stakataka,"Rock, Steel",https://img.pokemondb.net/sprites/home/normal/2x/stakataka.jpg
+Blacephalon,"Fire, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/blacephalon.jpg
+Zeraora,Electric,https://img.pokemondb.net/sprites/home/normal/2x/zeraora.jpg
+Meltan,Steel,https://img.pokemondb.net/sprites/home/normal/2x/meltan.jpg
+Melmetal,Steel,https://img.pokemondb.net/sprites/home/normal/2x/melmetal.jpg
+Grookey,Grass,https://img.pokemondb.net/sprites/home/normal/2x/grookey.jpg
+Thwackey,Grass,https://img.pokemondb.net/sprites/home/normal/2x/thwackey.jpg
+Rillaboom,Grass,https://img.pokemondb.net/sprites/home/normal/2x/rillaboom.jpg
+Scorbunny,Fire,https://img.pokemondb.net/sprites/home/normal/2x/scorbunny.jpg
+Raboot,Fire,https://img.pokemondb.net/sprites/home/normal/2x/raboot.jpg
+Cinderace,Fire,https://img.pokemondb.net/sprites/home/normal/2x/cinderace.jpg
+Sobble,Water,https://img.pokemondb.net/sprites/home/normal/2x/sobble.jpg
+Drizzile,Water,https://img.pokemondb.net/sprites/home/normal/2x/drizzile.jpg
+Inteleon,Water,https://img.pokemondb.net/sprites/home/normal/2x/inteleon.jpg
+Skwovet,Normal,https://img.pokemondb.net/sprites/home/normal/2x/skwovet.jpg
+Greedent,Normal,https://img.pokemondb.net/sprites/home/normal/2x/greedent.jpg
+Rookidee,Flying,https://img.pokemondb.net/sprites/home/normal/2x/rookidee.jpg
+Corvisquire,Flying,https://img.pokemondb.net/sprites/home/normal/2x/corvisquire.jpg
+Corviknight,"Flying, Steel",https://img.pokemondb.net/sprites/home/normal/2x/corviknight.jpg
+Blipbug,Bug,https://img.pokemondb.net/sprites/home/normal/2x/blipbug.jpg
+Dottler,"Bug, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/dottler.jpg
+Orbeetle,"Bug, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/orbeetle.jpg
+Nickit,Dark,https://img.pokemondb.net/sprites/home/normal/2x/nickit.jpg
+Thievul,Dark,https://img.pokemondb.net/sprites/home/normal/2x/thievul.jpg
+Gossifleur,Grass,https://img.pokemondb.net/sprites/home/normal/2x/gossifleur.jpg
+Eldegoss,Grass,https://img.pokemondb.net/sprites/home/normal/2x/eldegoss.jpg
+Wooloo,Normal,https://img.pokemondb.net/sprites/home/normal/2x/wooloo.jpg
+Dubwool,Normal,https://img.pokemondb.net/sprites/home/normal/2x/dubwool.jpg
+Chewtle,Water,https://img.pokemondb.net/sprites/home/normal/2x/chewtle.jpg
+Drednaw,"Water, Rock",https://img.pokemondb.net/sprites/home/normal/2x/drednaw.jpg
+Yamper,Electric,https://img.pokemondb.net/sprites/home/normal/2x/yamper.jpg
+Boltund,Electric,https://img.pokemondb.net/sprites/home/normal/2x/boltund.jpg
+Rolycoly,Rock,https://img.pokemondb.net/sprites/home/normal/2x/rolycoly.jpg
+Carkol,"Rock, Fire",https://img.pokemondb.net/sprites/home/normal/2x/carkol.jpg
+Coalossal,"Rock, Fire",https://img.pokemondb.net/sprites/home/normal/2x/coalossal.jpg
+Applin,"Grass, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/applin.jpg
+Flapple,"Grass, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/flapple.jpg
+Appletun,"Grass, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/appletun.jpg
+Silicobra,Ground,https://img.pokemondb.net/sprites/home/normal/2x/silicobra.jpg
+Sandaconda,Ground,https://img.pokemondb.net/sprites/home/normal/2x/sandaconda.jpg
+Cramorant,"Flying, Water",https://img.pokemondb.net/sprites/home/normal/2x/cramorant.jpg
+Arrokuda,Water,https://img.pokemondb.net/sprites/home/normal/2x/arrokuda.jpg
+Barraskewda,Water,https://img.pokemondb.net/sprites/home/normal/2x/barraskewda.jpg
+Toxel,"Electric, Poison",https://img.pokemondb.net/sprites/home/normal/2x/toxel.jpg
+Toxtricity,"Electric, Poison",https://img.pokemondb.net/sprites/home/normal/2x/toxtricity.jpg
+Sizzlipede,"Fire, Bug",https://img.pokemondb.net/sprites/home/normal/2x/sizzlipede.jpg
+Centiskorch,"Fire, Bug",https://img.pokemondb.net/sprites/home/normal/2x/centiskorch.jpg
+Clobbopus,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/clobbopus.jpg
+Grapploct,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/grapploct.jpg
+Sinistea,Ghost,https://img.pokemondb.net/sprites/home/normal/2x/sinistea.jpg
+Polteageist,Ghost,https://img.pokemondb.net/sprites/home/normal/2x/polteageist.jpg
+Hatenna,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/hatenna.jpg
+Hattrem,Psychic,https://img.pokemondb.net/sprites/home/normal/2x/hattrem.jpg
+Hatterene,"Psychic, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/hatterene.jpg
+Impidimp,"Dark, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/impidimp.jpg
+Morgrem,"Dark, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/morgrem.jpg
+Grimmsnarl,"Dark, Fairy",https://img.pokemondb.net/sprites/home/normal/2x/grimmsnarl.jpg
+Obstagoon,"Dark, Normal",https://img.pokemondb.net/sprites/home/normal/2x/obstagoon.jpg
+Perrserker,Steel,https://img.pokemondb.net/sprites/home/normal/2x/perrserker.jpg
+Cursola,Ghost,https://img.pokemondb.net/sprites/home/normal/2x/cursola.jpg
+Sirfetch'd,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/sirfetchd.jpg
+Mr. Rime,"Ice, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/mr-rime.jpg
+Runerigus,"Ground, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/runerigus.jpg
+Milcery,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/milcery.jpg
+Alcremie,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/alcremie.jpg
+Falinks,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/falinks.jpg
+Pincurchin,Electric,https://img.pokemondb.net/sprites/home/normal/2x/pincurchin.jpg
+Snom,"Ice, Bug",https://img.pokemondb.net/sprites/home/normal/2x/snom.jpg
+Frosmoth,"Ice, Bug",https://img.pokemondb.net/sprites/home/normal/2x/frosmoth.jpg
+Stonjourner,Rock,https://img.pokemondb.net/sprites/home/normal/2x/stonjourner.jpg
+Eiscue,Ice,https://img.pokemondb.net/sprites/home/normal/2x/eiscue.jpg
+Indeedee,"Psychic, Normal",https://img.pokemondb.net/sprites/home/normal/2x/indeedee.jpg
+Morpeko,"Electric, Dark",https://img.pokemondb.net/sprites/home/normal/2x/morpeko.jpg
+Cufant,Steel,https://img.pokemondb.net/sprites/home/normal/2x/cufant.jpg
+Copperajah,Steel,https://img.pokemondb.net/sprites/home/normal/2x/copperajah.jpg
+Dracozolt,"Electric, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/dracozolt.jpg
+Arctozolt,"Electric, Ice",https://img.pokemondb.net/sprites/home/normal/2x/arctozolt.jpg
+Dracovish,"Water, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/dracovish.jpg
+Arctovish,"Water, Ice",https://img.pokemondb.net/sprites/home/normal/2x/arctovish.jpg
+Duraludon,"Steel, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/duraludon.jpg
+Dreepy,"Dragon, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/dreepy.jpg
+Drakloak,"Dragon, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/drakloak.jpg
+Dragapult,"Dragon, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/dragapult.jpg
+Zacian,Fairy,https://img.pokemondb.net/sprites/home/normal/2x/zacian.jpg
+Zamazenta,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/zamazenta.jpg
+Eternatus,"Poison, Dragon",https://img.pokemondb.net/sprites/home/normal/2x/eternatus.jpg
+Kubfu,Fighting,https://img.pokemondb.net/sprites/home/normal/2x/kubfu.jpg
+Urshifu,"Fighting, Dark",https://img.pokemondb.net/sprites/home/normal/2x/urshifu.jpg
+Zarude,"Dark, Grass",https://img.pokemondb.net/sprites/home/normal/2x/zarude.jpg
+Regieleki,Electric,https://img.pokemondb.net/sprites/home/normal/2x/regieleki.jpg
+Regidrago,Dragon,https://img.pokemondb.net/sprites/home/normal/2x/regidrago.jpg
+Glastrier,Ice,https://img.pokemondb.net/sprites/home/normal/2x/glastrier.jpg
+Spectrier,Ghost,https://img.pokemondb.net/sprites/home/normal/2x/spectrier.jpg
+Calyrex,"Psychic, Grass",https://img.pokemondb.net/sprites/home/normal/2x/calyrex.jpg
+Wyrdeer,"Normal, Psychic",https://img.pokemondb.net/sprites/home/normal/2x/wyrdeer.jpg
+Kleavor,"Bug, Rock",https://img.pokemondb.net/sprites/home/normal/2x/kleavor.jpg
+Ursaluna,"Ground, Normal",https://img.pokemondb.net/sprites/home/normal/2x/ursaluna.jpg
+Basculegion,"Water, Ghost",https://img.pokemondb.net/sprites/home/normal/2x/basculegion.jpg
+Sneasler,"Fighting, Poison",https://img.pokemondb.net/sprites/home/normal/2x/sneasler.jpg
+Overqwil,"Dark, Poison",https://img.pokemondb.net/sprites/home/normal/2x/overqwil.jpg
+Enamorus,"Fairy, Flying",https://img.pokemondb.net/sprites/home/normal/2x/enamorus.jpg
+Sprigatito,Grass,https://img.pokemondb.net/sprites/scarlet-violet/normal/sprigatito.png
+Floragato,Grass,https://img.pokemondb.net/sprites/scarlet-violet/normal/floragato.png
+Meowscarada,"Grass, Dark",https://img.pokemondb.net/sprites/scarlet-violet/normal/meowscarada.png
+Fuecoco,Fire,https://img.pokemondb.net/sprites/scarlet-violet/normal/fuecoco.png
+Crocalor,Fire,https://img.pokemondb.net/sprites/scarlet-violet/normal/crocalor.png
+Skeledirge,"Fire, Ghost",https://img.pokemondb.net/sprites/scarlet-violet/normal/skeledirge.png
+Quaxly,Water,https://img.pokemondb.net/sprites/scarlet-violet/normal/quaxly.png
+Quaxwell,Water,https://img.pokemondb.net/sprites/scarlet-violet/normal/quaxwell.png
+Quaquaval,"Water, Fighting",https://img.pokemondb.net/sprites/scarlet-violet/normal/quaquaval.png
+Lechonk,Normal,https://img.pokemondb.net/sprites/scarlet-violet/normal/lechonk.png
+Oinkologne,Normal,https://img.pokemondb.net/sprites/scarlet-violet/normal/oinkologne.png
+Tarountula,Bug,https://img.pokemondb.net/sprites/scarlet-violet/normal/tarountula.png
+Spidops,Bug,https://img.pokemondb.net/sprites/scarlet-violet/normal/spidops.png
+Nymble,Bug,https://img.pokemondb.net/sprites/scarlet-violet/normal/nymble.png
+Lokix,"Bug, Dark",https://img.pokemondb.net/sprites/scarlet-violet/normal/lokix.png
+Pawmi,Electric,https://img.pokemondb.net/sprites/scarlet-violet/normal/pawmi.png
+Pawmo,"Electric, Fighting",https://img.pokemondb.net/sprites/scarlet-violet/normal/pawmo.png
+Pawmot,"Electric, Fighting",https://img.pokemondb.net/sprites/scarlet-violet/normal/pawmot.png
+Tandemaus,Normal,https://img.pokemondb.net/sprites/scarlet-violet/normal/tandemaus.png
+Maushold,Normal,https://img.pokemondb.net/sprites/scarlet-violet/normal/maushold.png
+Fidough,Fairy,https://img.pokemondb.net/sprites/scarlet-violet/normal/fidough.png
+Dachsbun,Fairy,https://img.pokemondb.net/sprites/scarlet-violet/normal/dachsbun.png
+Smoliv,"Grass, Normal",https://img.pokemondb.net/sprites/scarlet-violet/normal/smoliv.png
+Dolliv,"Grass, Normal",https://img.pokemondb.net/sprites/scarlet-violet/normal/dolliv.png
+Arboliva,"Grass, Normal",https://img.pokemondb.net/sprites/scarlet-violet/normal/arboliva.png
+Squawkabilly,"Normal, Flying",https://img.pokemondb.net/sprites/scarlet-violet/normal/squawkabilly.png
+Nacli,Rock,https://img.pokemondb.net/sprites/scarlet-violet/normal/nacli.png
+Naclstack,Rock,https://img.pokemondb.net/sprites/scarlet-violet/normal/naclstack.png
+Garganacl,Rock,https://img.pokemondb.net/sprites/scarlet-violet/normal/garganacl.png
+Charcadet,Fire,https://img.pokemondb.net/sprites/scarlet-violet/normal/charcadet.png
+Armarouge,"Fire, Psychic",https://img.pokemondb.net/sprites/scarlet-violet/normal/armarouge.png
+Ceruledge,"Fire, Ghost",https://img.pokemondb.net/sprites/scarlet-violet/normal/ceruledge.png
+Tadbulb,Electric,https://img.pokemondb.net/sprites/scarlet-violet/normal/tadbulb.png
+Bellibolt,Electric,https://img.pokemondb.net/sprites/scarlet-violet/normal/bellibolt.png
+Wattrel,"Electric, Flying",https://img.pokemondb.net/sprites/scarlet-violet/normal/wattrel.png
+Kilowattrel,"Electric, Flying",https://img.pokemondb.net/sprites/scarlet-violet/normal/kilowattrel.png
+Maschiff,Dark,https://img.pokemondb.net/sprites/scarlet-violet/normal/maschiff.png
+Mabosstiff,Dark,https://img.pokemondb.net/sprites/scarlet-violet/normal/mabosstiff.png
+Shroodle,"Poison, Normal",https://img.pokemondb.net/sprites/scarlet-violet/normal/shroodle.png
+Grafaiai,"Poison, Normal",https://img.pokemondb.net/sprites/scarlet-violet/normal/grafaiai.png
+Bramblin,"Grass, Ghost",https://img.pokemondb.net/sprites/scarlet-violet/normal/bramblin.png
+Brambleghast,"Grass, Ghost",https://img.pokemondb.net/sprites/scarlet-violet/normal/brambleghast.png
+Toedscool,"Ground, Grass",https://img.pokemondb.net/sprites/scarlet-violet/normal/toedscool.png
+Toedscruel,"Ground, Grass",https://img.pokemondb.net/sprites/scarlet-violet/normal/toedscruel.png
+Klawf,Rock,https://img.pokemondb.net/sprites/scarlet-violet/normal/klawf.png
+Capsakid,Grass,https://img.pokemondb.net/sprites/scarlet-violet/normal/capsakid.png
+Scovillain,"Grass, Fire",https://img.pokemondb.net/sprites/scarlet-violet/normal/scovillain.png
+Rellor,Bug,https://img.pokemondb.net/sprites/scarlet-violet/normal/rellor.png
+Rabsca,"Bug, Psychic",https://img.pokemondb.net/sprites/scarlet-violet/normal/rabsca.png
+Flittle,Psychic,https://img.pokemondb.net/sprites/scarlet-violet/normal/flittle.png
+Espathra,Psychic,https://img.pokemondb.net/sprites/scarlet-violet/normal/espathra.png
+Tinkatink,"Fairy, Steel",https://img.pokemondb.net/sprites/scarlet-violet/normal/tinkatink.png
+Tinkatuff,"Fairy, Steel",https://img.pokemondb.net/sprites/scarlet-violet/normal/tinkatuff.png
+Tinkaton,"Fairy, Steel",https://img.pokemondb.net/sprites/scarlet-violet/normal/tinkaton.png
+Wiglett,Water,https://img.pokemondb.net/sprites/scarlet-violet/normal/wiglett.png
+Wugtrio,Water,https://img.pokemondb.net/sprites/scarlet-violet/normal/wugtrio.png
+Bombirdier,"Flying, Dark",https://img.pokemondb.net/sprites/scarlet-violet/normal/bombirdier.png
+Finizen,Water,https://img.pokemondb.net/sprites/scarlet-violet/normal/finizen.png
+Palafin,Water,https://img.pokemondb.net/sprites/scarlet-violet/normal/palafin.png
+Varoom,"Steel, Poison",https://img.pokemondb.net/sprites/scarlet-violet/normal/varoom.png
+Revavroom,"Steel, Poison",https://img.pokemondb.net/sprites/scarlet-violet/normal/revavroom.png
+Cyclizar,"Dragon, Normal",https://img.pokemondb.net/sprites/scarlet-violet/normal/cyclizar.png
+Orthworm,Steel,https://img.pokemondb.net/sprites/scarlet-violet/normal/orthworm.png
+Glimmet,"Rock, Poison",https://img.pokemondb.net/sprites/scarlet-violet/normal/glimmet.png
+Glimmora,"Rock, Poison",https://img.pokemondb.net/sprites/scarlet-violet/normal/glimmora.png
+Greavard,Ghost,https://img.pokemondb.net/sprites/scarlet-violet/normal/greavard.png
+Houndstone,Ghost,https://img.pokemondb.net/sprites/scarlet-violet/normal/houndstone.png
+Flamigo,"Flying, Fighting",https://img.pokemondb.net/sprites/scarlet-violet/normal/flamigo.png
+Cetoddle,Ice,https://img.pokemondb.net/sprites/scarlet-violet/normal/cetoddle.png
+Cetitan,Ice,https://img.pokemondb.net/sprites/scarlet-violet/normal/cetitan.png
+Veluza,"Water, Psychic",https://img.pokemondb.net/sprites/scarlet-violet/normal/veluza.png
+Dondozo,Water,https://img.pokemondb.net/sprites/scarlet-violet/normal/dondozo.png
+Tatsugiri,"Dragon, Water",https://img.pokemondb.net/sprites/scarlet-violet/normal/tatsugiri.png
+Annihilape,"Fighting, Ghost",https://img.pokemondb.net/sprites/scarlet-violet/normal/annihilape.png
+Clodsire,"Poison, Ground",https://img.pokemondb.net/sprites/scarlet-violet/normal/clodsire.png
+Farigiraf,"Normal, Psychic",https://img.pokemondb.net/sprites/scarlet-violet/normal/farigiraf.png
+Dudunsparce,Normal,https://img.pokemondb.net/sprites/scarlet-violet/normal/dudunsparce.png
+Kingambit,"Dark, Steel",https://img.pokemondb.net/sprites/scarlet-violet/normal/kingambit.png
+Great Tusk,"Ground, Fighting",https://img.pokemondb.net/sprites/scarlet-violet/normal/great-tusk.png
+Scream Tail,"Fairy, Psychic",https://img.pokemondb.net/sprites/scarlet-violet/normal/scream-tail.png
+Brute Bonnet,"Grass, Dark",https://img.pokemondb.net/sprites/scarlet-violet/normal/brute-bonnet.png
+Flutter Mane,"Ghost, Fairy",https://img.pokemondb.net/sprites/scarlet-violet/normal/flutter-mane.png
+Slither Wing,"Bug, Fighting",https://img.pokemondb.net/sprites/scarlet-violet/normal/slither-wing.png
+Sandy Shocks,"Electric, Ground",https://img.pokemondb.net/sprites/scarlet-violet/normal/sandy-shocks.png
+Iron Treads,"Ground, Steel",https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-treads.png
+Iron Bundle,"Ice, Water",https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-bundle.png
+Iron Hands,"Fighting, Electric",https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-hands.png
+Iron Jugulis,"Dark, Flying",https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-jugulis.png
+Iron Moth,"Fire, Poison",https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-moth.png
+Iron Thorns,"Rock, Electric",https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-thorns.png
+Frigibax,"Dragon, Ice",https://img.pokemondb.net/sprites/scarlet-violet/normal/frigibax.png
+Arctibax,"Dragon, Ice",https://img.pokemondb.net/sprites/scarlet-violet/normal/arctibax.png
+Baxcalibur,"Dragon, Ice",https://img.pokemondb.net/sprites/scarlet-violet/normal/baxcalibur.png
+Gimmighoul,Ghost,https://img.pokemondb.net/sprites/scarlet-violet/normal/gimmighoul.png
+Gholdengo,"Steel, Ghost",https://img.pokemondb.net/sprites/scarlet-violet/normal/gholdengo.png
+Wo-Chien,"Dark, Grass",https://img.pokemondb.net/sprites/scarlet-violet/normal/wo-chien.png
+Chien-Pao,"Dark, Ice",https://img.pokemondb.net/sprites/scarlet-violet/normal/chien-pao.png
+Ting-Lu,"Dark, Ground",https://img.pokemondb.net/sprites/scarlet-violet/normal/ting-lu.png
+Chi-Yu,"Dark, Fire",https://img.pokemondb.net/sprites/scarlet-violet/normal/chi-yu.png
+Roaring Moon,"Dragon, Dark",https://img.pokemondb.net/sprites/scarlet-violet/normal/roaring-moon.png
+Iron Valiant,"Fairy, Fighting",https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-valiant.png
+Koraidon,"Fighting, Dragon",https://img.pokemondb.net/sprites/scarlet-violet/normal/koraidon.png
+Miraidon,"Electric, Dragon",https://img.pokemondb.net/sprites/scarlet-violet/normal/miraidon.png
+Walking Wake,"Water, Dragon",https://img.pokemondb.net/sprites/scarlet-violet/normal/walking-wake.png
+Iron Leaves,"Grass, Psychic",https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-leaves.png
+Dipplin,"Grass, Dragon",https://img.pokemondb.net/sprites/scarlet-violet/normal/dipplin.png
+Poltchageist,"Grass, Ghost",https://img.pokemondb.net/sprites/scarlet-violet/normal/poltchageist.png
+Sinistcha,"Grass, Ghost",https://img.pokemondb.net/sprites/scarlet-violet/normal/sinistcha.png
+Okidogi,"Poison, Fighting",https://img.pokemondb.net/sprites/scarlet-violet/normal/okidogi.png
+Munkidori,"Poison, Psychic",https://img.pokemondb.net/sprites/scarlet-violet/normal/munkidori.png
+Fezandipiti,"Poison, Fairy",https://img.pokemondb.net/sprites/scarlet-violet/normal/fezandipiti.png
+Ogerpon,Grass,https://img.pokemondb.net/sprites/scarlet-violet/normal/ogerpon.png
+Archaludon,"Steel, Dragon",https://img.pokemondb.net/sprites/scarlet-violet/normal/archaludon.png
+Hydrapple,"Grass, Dragon",https://img.pokemondb.net/sprites/scarlet-violet/normal/hydrapple.png
+Gouging Fire,"Fire, Dragon",https://img.pokemondb.net/sprites/scarlet-violet/normal/gouging-fire.png
+Raging Bolt,"Electric, Dragon",https://img.pokemondb.net/sprites/scarlet-violet/normal/raging-bolt.png
+Iron Boulder,"Rock, Psychic",https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-boulder.png
+Iron Crown,"Steel, Psychic",https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-crown.png
+Terapagos,Normal,https://img.pokemondb.net/sprites/scarlet-violet/normal/terapagos.png
+Pecharunt,"Poison, Ghost",https://img.pokemondb.net/sprites/scarlet-violet/normal/pecharunt.png
